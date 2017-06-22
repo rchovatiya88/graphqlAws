@@ -1,0 +1,28 @@
+{
+  "name": "graphqlAws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchovatiya88/graphqlAws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchovatiya88/graphqlAws/issues"
+  },
+  "homepage": "https://github.com/rchovatiya88/graphqlAws#readme",
+  "dependencies": {
+    "aws-serverless-express": "^3.0.2",
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.6",
+    "graphql": "^0.10.3"
+  }
+}
